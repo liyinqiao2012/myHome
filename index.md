@@ -2,6 +2,7 @@
 layout: default
 title: About Me 🙋‍♂️
 ---
+<meta name="google-site-verification" content="1i5kUgyDbj3HZHkflEMrPolMP40gxcghUz9EUQNyGm0" />
 
 <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 

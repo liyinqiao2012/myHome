@@ -2,8 +2,6 @@
 layout: default
 title: About Me 🙋‍♂️
 ---
-<meta name="google-site-verification" content="1i5kUgyDbj3HZHkflEMrPolMP40gxcghUz9EUQNyGm0" />
-
 <img src="/asset/pics/myself.jpeg" alt="Myself" width="212"/>
 
 I am **LI Yinqiao (李垠桥/李垠橋/Joey)**, currently a **postdoctoral fellow** at [AI^2 Lab](https://sites.google.com/site/aisquaredlab/home?authuser=0) at the **City University of Hong Kong (CityUHK)** under the supervision of Prof. SONG Linqi. 
